@@ -1,5 +1,11 @@
 # Jarkom-Modul-5-F04-2022
 
+Nama Anggota:
+
+1. Ida Bagus Kade Rainata Putra Wibawa 5025201235 (Menghitung CIDR mengerjakan soal 2,3,4,5)
+2. Hilmi (Mengerjakan Soal ABCD Konfigurasi)
+
+
 ## A
 
 Berikut adalah topologi dari jaringan pada soal shift:
