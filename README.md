@@ -13,6 +13,7 @@ Naufal Faadhilah | 5025201221 | Lapres |
 Berikut adalah topologi dari jaringan pada soal shift:
 ![image](https://user-images.githubusercontent.com/86661387/206892132-18009c0a-c14f-4a67-89d3-f14ec19c01c6.png)
 
+
 karena topologi diatas, kami membuat settingan GNS# sebagai berikut
 
 ```txt
