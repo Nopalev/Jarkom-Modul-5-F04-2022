@@ -2,9 +2,11 @@
 
 Nama Anggota:
 
-1. Ida Bagus Kade Rainata Putra Wibawa 5025201235 (Menghitung CIDR mengerjakan soal 2,3,4,5)
-2. Hilmi (Mengerjakan Soal ABCD Konfigurasi)
-
+Nama | NRP | Kontribusi |
+--- | --- | --- |
+Hilmi Zharfan Rachmadi | 5025201268 | Mengerjakan Topologi, Konfigurasi Soal A,B,C,D |
+Ida Bagus Kade Rainata Putra Wibawa | 5025201235 | Menghitung CIDR mengerjakan soal 2,3,4,5 |
+Naufal Faadhilah | 5025201221 | Lapres |
 
 ## A
 
